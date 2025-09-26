@@ -1,0 +1,92 @@
+[
+    {
+        "Nome": "Pão francês",
+        "Preco": 0.85,
+        "Estoque": 500
+    },
+    {
+        "Nome": "Croissant",
+        "Preco": 4.0,
+        "Estoque": 20
+    },
+    {
+        "Nome": "Bolo de Cenoura (fatia)",
+        "Preco": 6.0,
+        "Estoque": 9
+    },
+    {
+        "Nome": "Pão de Queijo",
+        "Preco": 1.5,
+        "Estoque": 30
+    },
+    {
+        "Nome": "Café Pequeno",
+        "Preco": 2.0,
+        "Estoque": 30
+    },
+    {
+        "Nome": "Pão de Doce",
+        "Preco": 0.85,
+        "Estoque": 300
+    },
+    {
+        "Nome": "Sonho de Goiabada",
+        "Preco": 3.5,
+        "Estoque": 15
+    },
+    {
+        "Nome": "Dadinho de tapioca",
+        "Preco": 4.0,
+        "Estoque": 15
+    },
+    {
+        "Nome": "Bolo de Leite",
+        "Preco": 3.0,
+        "Estoque": 12
+    },
+    {
+        "Nome": "Romeo e Julieta",
+        "Preco": 5.0,
+        "Estoque": 10
+    },
+    {
+        "Nome": "Bolo de prestígio (fatia)",
+        "Preco": 7.5,
+        "Estoque": 10
+    },
+    {
+        "Nome": "Coxinha",
+        "Preco": 5.0,
+        "Estoque": 20
+    },
+    {
+        "Nome": "Arroz",
+        "Preco": 6.5,
+        "Estoque": 22
+    },
+    {
+        "Nome": "Feijão",
+        "Preco": 5.5,
+        "Estoque": 24
+    },
+    {
+        "Nome": "Macarrão",
+        "Preco": 4.0,
+        "Estoque": 12
+    },
+    {
+        "Nome": "Sonho de Leite Condensado",
+        "Preco": 2.5,
+        "Estoque": 15
+    },
+    {
+        "Nome": "Cocada",
+        "Preco": 2.5,
+        "Estoque": 12
+    },
+    {
+        "Nome": "Doce de goiaba, 100g",
+        "Preco": 3.5,
+        "Estoque": 20
+    }
+]
